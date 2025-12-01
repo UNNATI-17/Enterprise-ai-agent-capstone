@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
